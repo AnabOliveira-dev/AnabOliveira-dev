@@ -1,6 +1,6 @@
 ## Olá Mundo, eu sou a Ana
 - Técnica em Desenvolvimento de Sistemas pela ETEC
-- Atualmente cursando 4º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC
+- Atualmente cursando 3º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC
 - Estudando Trilha de Cibersegurança e Back-End
 
  
