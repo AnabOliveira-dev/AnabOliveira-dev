@@ -1,7 +1,16 @@
-## Olá Mundo, eu sou a Ana
-- Técnica em Desenvolvimento de Sistemas pela ETEC
-- Atualmente cursando 3º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC
-- Estudando Trilha de Cibersegurança e Back-End
+### Olá Mundo, eu sou a Ana
+---
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/0f9203a6-3117-4c81-929b-7ca84afdf054" />
+
+---
+
+<br>
+
+**Sobre mim:**
+- Técnica em Desenvolvimento de Sistemas pela ETEC;
+- Atualmente cursando 3º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC;
+- Estudando Trilha de [Cibersegurança](https://roadmap.sh/cyber-security) e [Back-End](https://roadmap.sh/backend);
+- Participo de uma comunidade de estudos na área tech no [Twitter](https://x.com/dev_anab) e compartilho minhas conquistas no [LinkedIn](https://www.linkedin.com/in/ana-beatriz-oliveira-a68b6a27b/).
 
  
 <div>
@@ -20,14 +29,14 @@
  
 </div>
 
-## Linguagens e Tecnologias
+##
+
+**Linguagens e Tecnologias:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
