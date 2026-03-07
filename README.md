@@ -10,7 +10,7 @@
 **👩🏽Sobre mim:**
 - 🎓 Técnica em Desenvolvimento de Sistemas pela ETEC;
 - 👩🏽‍💻 Atualmente cursando 3º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC;
-- 🔐 Estudando Trilha de [Cibersegurança](https://roadmap.sh/cyber-security) e [Back-End](https://roadmap.sh/backend);
+- 🔐 Estudando Trilha de [Cibersegurança](https://roadmap.sh/cyber-security) e [Back-End](https://roadmap.sh/backend) com Python;
 - 💻 Participo de uma comunidade de estudos na área tech no [Twitter](https://x.com/dev_anab) e compartilho minhas conquistas no [LinkedIn](https://www.linkedin.com/in/ana-beatriz-oliveira-a68b6a27b/).
 
  
