@@ -1,13 +1,11 @@
 
- ### 👋 Olá Mundo, eu sou a Ana!
+ ## 👋 Olá Mundo, eu sou a Ana!
 ---
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/0f9203a6-3117-4c81-929b-7ca84afdf054" />
 
----
-
 <br>
 
-**👩🏽Sobre mim:**
+### Sobre mim:
 - 🎓 Técnica em Desenvolvimento de Sistemas pela ETEC;
 - 👩🏽‍💻 Atualmente cursando 3º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC;
 - 🔐 Estudando Trilha de [Cibersegurança](https://roadmap.sh/cyber-security) e [Back-End](https://roadmap.sh/backend) com Python;
@@ -32,7 +30,7 @@
 
 ##
 
-**🤖 Linguagens e Tecnologias:**
+### Linguagens e Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
