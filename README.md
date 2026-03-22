@@ -1,7 +1,7 @@
 
  ## 👋 Olá Mundo, eu sou a Ana!
 ---
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/0f9203a6-3117-4c81-929b-7ca84afdf054" />
+![Image](https://github.com/user-attachments/assets/ef0a1a29-9059-46ee-95ee-cb83ccb6b784)
 
 <br>
 
