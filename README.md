@@ -1,10 +1,8 @@
 
  ## 👋 Olá Mundo, eu sou a Ana!
----
+
 ![Image](https://github.com/user-attachments/assets/ef0a1a29-9059-46ee-95ee-cb83ccb6b784)
-
-<br>
-
+___
 ### Sobre mim:
 - 🎓 Técnica em Desenvolvimento de Sistemas pela ETEC;
 - 👩🏽‍💻 Atualmente cursando 3º período em Desenvolvimento de Sistemas Multiplataforma pela FATEC;
