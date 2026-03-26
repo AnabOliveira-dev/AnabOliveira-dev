@@ -1,7 +1,7 @@
 
  ## 👋 Olá Mundo, eu sou a Ana!
 
-![Image](https://github.com/user-attachments/assets/ef0a1a29-9059-46ee-95ee-cb83ccb6b784)
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/f5e84785-d309-46f4-ae18-5ee321ae2742" />
 ___
 ### Sobre mim:
 - 🎓 Técnica em Desenvolvimento de Sistemas pela ETEC;
